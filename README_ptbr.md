@@ -1,4 +1,4 @@
-[English](README.md) | Portuguese
+[Inglês](README.md) | Português
 
 <h1> Calculadora IMC, com Dark Mode </h1>
 
